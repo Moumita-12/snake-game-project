@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<bits/stdc++.h>
 #include <time.h>
 #include <windows.h>
 #include <gl/glut.h>
